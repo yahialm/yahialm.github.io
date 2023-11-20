@@ -9,4 +9,7 @@ tags: [docker,Kubernetes,K8s,DevOps]
 
 Hello fellas, so happy to see you here in my new blog, where I share with you well explained answers of questions I ask myself all the time
 
-```bash $ git clone https://github.com/example/repo.git $ cd repo $ npm install $ npm start ```
+```bash $ git clone https://github.com/example/repo.git ```
+```bash $ cd repo ```
+```bash $ npm install ```
+```bach $ npm start ```
