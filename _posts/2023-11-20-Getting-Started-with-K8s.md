@@ -9,7 +9,15 @@ tags: [docker,Kubernetes,K8s,DevOps]
 
 Hello fellas, so happy to see you here in my new blog, where I share with you well explained answers of questions I ask myself all the time
 
-```bash $ git clone https://github.com/example/repo.git ```
-```bash $ cd repo ```
-```bash $ npm install ```
-```bach $ npm start ```
+```bash $ git clone https://github.com/example/repo.git ``` <br/>
+```bash $ cd repo ``` <br/>
+```bash $ npm install ``` <br/>
+```bash $ npm start ``` <br/>
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+```
