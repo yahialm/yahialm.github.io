@@ -62,7 +62,7 @@ On the other hand, containerization offers a different approach. Applications, a
 
 #### 4. Isolation for Security 🚪 🔐
 
-After successfully scaling up, one of your `***containers*** gets some security problems because one of those bad guys 👨‍💻 just gets unauthorized access to your app. Because of the way how containers are built and constructed, **they are isolated from each other so each one has its own view of computing resources and none of them can access the others**, and to make it simple you can say that each one of them has its own preocesses running independently. So you don't need to worry about other running ```containers``` because they are isolated and far from any security problem because of the affected one. ***(Remember that there is no fully secured system on the planet)***
+After successfully scaling up, one of your ***containers*** gets some security problems because one of those bad guys 👨‍💻 just gets unauthorized access to your app. Because of the way how containers are built and constructed, **they are isolated from each other so each one has its own view of computing resources and none of them can access the others**, and to make it simple you can say that each one of them has its own preocesses running independently. So you don't need to worry about other running ```containers``` because they are isolated and far from any security problem because of the affected one. ***(Remember that there is no fully secured system on the planet)***
 
 For VMs, since running apps share the same computing resources and they are not fully isolated, once an unauthorized access happens to one of the app instance the others will be affected, even the whole system can be damaged.
 
