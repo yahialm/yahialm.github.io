@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yahia Lamhafad</title>
+    <link>http://localhost:43374/</link>
+    <description>Recent content on Yahia Lamhafad</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Lamhafad Yahia</copyright>
+    <lastBuildDate>Mon, 20 May 2024 00:31:46 +0100</lastBuildDate>
+    <atom:link href="http://localhost:43374/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Containerization</title>
+      <link>http://localhost:43374/posts/containers/</link>
+      <pubDate>Mon, 20 May 2024 00:31:46 +0100</pubDate>
+      <guid>http://localhost:43374/posts/containers/</guid>
+      <description>Introduction 📢 In this blog, we will explore why you should care about containerization and how it has become a crucial aspect of the tech industry today. Containerization : The best and simple definition 😍 Containerization, widely adopted in the Tech Industry as a development and deployment method, involves bundling an application’s source code along with its dependencies into a single, self-contained package that can be executed seamlessly across various computing environments.</description>
+    </item>
+    <item>
+      <title>Hello-World 😄</title>
+      <link>http://localhost:43374/posts/hello-world/</link>
+      <pubDate>Mon, 20 May 2024 00:31:46 +0100</pubDate>
+      <guid>http://localhost:43374/posts/hello-world/</guid>
+      <description>fmt.Println(&amp;#34;Hello, World 😄&amp;#34;) // Gopher here 😅🦫 Hello! I&amp;rsquo;m Yahia, a passionate and dedicated Software engineer student with a strong background in automating, deploying, and maintaining scalable and reliable systems. I thrive in environments where I can bridge the gap between development and operations, ensuring seamless integration and delivery of high-quality software products. Professional Summary&#xA;With over 2 years of experience in the IT industry, I have honed my skills in various aspects of DevOps including continuous integration, continuous delivery, infrastructure as code, and monitoring.</description>
+    </item>
+  </channel>
+</rss>

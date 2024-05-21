@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:43374/posts/containers/</loc>
+    <lastmod>2024-05-20T00:31:46+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:43374/posts/hello-world/</loc>
+    <lastmod>2024-05-20T00:31:46+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:43374/posts/</loc>
+    <lastmod>2024-05-20T00:31:46+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:43374/</loc>
+    <lastmod>2024-05-20T00:31:46+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:43374/categories/</loc>
+  </url><url>
+    <loc>http://localhost:43374/tags/</loc>
+  </url>
+</urlset>
